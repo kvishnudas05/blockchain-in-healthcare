@@ -2,7 +2,7 @@ In this smart contract, patient data is stored using the Patient struct, which i
 
 The PatientDataStorage contract allows the following functionalities:
 
-  *CreatePatientRecord: Allows the creation of a patient record by providing the patient's name, age, gender, EHR data, and EMR data. The patient's address is used        as   the key in the mapping to store the patient's data.
+  *CreatePatientRecord: Allows the creation of a patient record by providing the patient's name, age, gender, EHR data, and EMR data. The patient's address is used as the key in the mapping to store the patient's data.
   
   *UpdateEHRData: Allows the patient to update their EHR data by providing the new EHR data.
 
