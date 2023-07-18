@@ -6,7 +6,7 @@ The **PatientDataStorage** contract allows the following functionalities:
   
   **UpdateEHRData:** Allows the patient to update their EHR data by providing the new EHR data.
 
-  ** **UpdateEMRData:**  Allows the patient to update their EMR data by providing the new EMR data.
+  **UpdateEMRData:**  Allows the patient to update their EMR data by providing the new EMR data.
   
   **GetPatientData:**  Retrieves the patient's data (name, age, gender, EHR data, and EMR data) based on the patient's address.
   
